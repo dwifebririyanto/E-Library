@@ -35,26 +35,34 @@ Tampilan umum || UI website
 ![App Screenshot](./data/image/ui5.jpg)
 
 Tampilan Login dan Sign UP
+
 ![App Screenshot](./data/image/login.jpg)
 ![App Screenshot](./data/image/signup.jpg)
 
 tampilan Dashboard || admin
+
 ![App Screenshot](./data/image/dashboard.jpg)
 
 Tampilan data member || admin
+
 ![App Screenshot](./data/image/datamember.jpg)
 
 Tampilan data buku & tambah buku || admin
+
 ![App Screenshot](./data/image/databuku.jpg)
 ![App Screenshot](./data/image/tambahbuku.jpg)
 
+
 Tampilan data peminjaman & histori peminjaman || admin
+
 ![App Screenshot](./data/image/datapinjaman.jpg)
 ![App Screenshot](./data/image/datahistoripinjaman.jpg)
 
 Tampilan pinjam buku || User
+
 ![App Screenshot](./data/image/pinjambukuuser.jpg)
 
 Tampilan koleksi buku & mengembalikan buku || User
+
 ![App Screenshot](./data/image/koleksibukuuser.jpg)
 ![App Screenshot](./data/image/kembalikanbukuuser.jpg)
