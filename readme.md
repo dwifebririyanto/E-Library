@@ -28,15 +28,21 @@ Aplikasi e-library sederhana untuk pengelolaan data buku, peminjaman, dan pengem
 
 ## Demo website E-Library
 Tampilan umum || UI website
+
 ![App Screenshot](./data/image/ui1.jpg)
+
 ![App Screenshot](./data/image/ui2.jpg)
+
 ![App Screenshot](./data/image/ui3.jpg)
+
 ![App Screenshot](./data/image/ui4.jpg)
+
 ![App Screenshot](./data/image/ui5.jpg)
 
 Tampilan Login dan Sign UP
 
 ![App Screenshot](./data/image/login.jpg)
+
 ![App Screenshot](./data/image/signup.jpg)
 
 tampilan Dashboard || admin
@@ -50,12 +56,14 @@ Tampilan data member || admin
 Tampilan data buku & tambah buku || admin
 
 ![App Screenshot](./data/image/databuku.jpg)
+
 ![App Screenshot](./data/image/tambahbuku.jpg)
 
 
 Tampilan data peminjaman & histori peminjaman || admin
 
 ![App Screenshot](./data/image/datapinjaman.jpg)
+
 ![App Screenshot](./data/image/datahistoripinjaman.jpg)
 
 Tampilan pinjam buku || User
@@ -65,4 +73,5 @@ Tampilan pinjam buku || User
 Tampilan koleksi buku & mengembalikan buku || User
 
 ![App Screenshot](./data/image/koleksibukuuser.jpg)
+
 ![App Screenshot](./data/image/kembalikanbukuuser.jpg)
